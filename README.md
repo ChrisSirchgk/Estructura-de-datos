@@ -8,3 +8,5 @@
 - [Primos](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/Primos.java)
 - [Pizzeria](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/Pizzeria.java)
 - [CodigoConjunto](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/codigogod.java)
+- [Enteros]()
+- [Frutas]()
