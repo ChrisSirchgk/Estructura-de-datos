@@ -2,7 +2,7 @@
 ## Programas
 ---
 ### Primer Parcial
-- [Constraseña](https://github.com/ChrisSirchgk/Estructura-de-datos/edit/main/README.md)
+- [Constraseña]([https://github.com/ChrisSirchgk/Estructura-de-datos/edit/main/README.md](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/Contrase%C3%B1a.java))
 - []()
 - []()
 - []()
