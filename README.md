@@ -2,7 +2,7 @@
 ## Programas
 ---
 ### Primer Parcial
-- [Switch - Constraseña](url:https://github.com/ChrisSirchgk/Estructura-de-datos/edit/main/README.md)
+- [Constraseña](url:https://github.com/ChrisSirchgk/Estructura-de-datos/edit/main/README.md)
 - []()
 - []()
 - []()
