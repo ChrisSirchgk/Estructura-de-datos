@@ -3,8 +3,8 @@
 ---
 ### Primer Parcial
 - [Constraseña](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/Contrase%C3%B1a.java)
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Fibonacci](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/Fibonacci.java)
+- [Fizz](https://github.com/ChrisSirchgk/Estructura-de-datos/edit/main/README.md)
+- [Primos](https://github.com/ChrisSirchgk/Estructura-de-datos/edit/main/README.md)
+- [Pizzeria](https://github.com/ChrisSirchgk/Estructura-de-datos/edit/main/README.md)
+- [CodigoConjunto](https://github.com/ChrisSirchgk/Estructura-de-datos/edit/main/README.md)
