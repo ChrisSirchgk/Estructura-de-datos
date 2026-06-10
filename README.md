@@ -10,3 +10,4 @@
 - [CodigoConjunto](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/codigogod.java)
 - [Enteros](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/Enteros.java)
 - [Frutas](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/Frutas.java)
+- [Becas]()
