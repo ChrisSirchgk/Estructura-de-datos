@@ -11,3 +11,5 @@
 - [Enteros](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/Enteros.java)
 - [Frutas](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/Frutas.java)
 - [Becas]()
+- [Cola de Numeros]()
+- [Fila de Personas]()
