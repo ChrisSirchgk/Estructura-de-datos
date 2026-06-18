@@ -13,3 +13,6 @@
 - [Becas](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/Becas.java)
 - [Cola de Numeros](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/ColaNumeros.java)
 - [Fila de Personas](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/FilaPersonas.java)
+- [Invertir Palabra](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/InvertirPalabra.java)
+- [Cafeteria](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/Cafeteria.java)
+- [Main](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/Main.java)
