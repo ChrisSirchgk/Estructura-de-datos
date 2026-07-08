@@ -18,8 +18,7 @@
 - [Main](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/Main.java)
 ---
 ### Segundo Parcial
-- [Main]
-- [Main]
-- [Main]
-- [Main]
-- [Main]
+- [Main](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/Nodo.java)
+- [Main](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/ListaEnlazadaBasica.java)
+- [Main](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/ListaEnlazada.java)
+- [Main](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/PrincipalListaEnlazada.java)
