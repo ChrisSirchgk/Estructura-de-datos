@@ -12,7 +12,7 @@ public class MenuListaEnlazada {
 
         do {
             System.out.println("\n");
-            System.out.println("   MENU LISTA ENLAZADA");
+            System.out.println("   LISTA ENLAZADA   ");
             System.out.println("");
             System.out.println("1. Agregar nodo");
             System.out.println("2. Mostrar lista");
