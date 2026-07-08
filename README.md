@@ -20,5 +20,5 @@
 ### Segundo Parcial
 - [Nodo](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/Nodo.java)
 - [Lista Enlazada Basica](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/ListaEnlazadaBasica.java)
-- [Lista Enlazada](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/ListaEnlazada.java)
 - [Principal Lista Enlazada](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/PrincipalListaEnlazada.java)
+- [Menu Lista Enlazada](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/MenuListaEnlazada.java)
