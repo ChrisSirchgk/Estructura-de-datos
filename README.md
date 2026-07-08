@@ -16,3 +16,10 @@
 - [Invertir Palabra](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/InvertirPalabra.java)
 - [Cafeteria](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/Cafeteria.java)
 - [Main](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/Main.java)
+---
+### Segundo Parcial
+- [Main]
+- [Main]
+- [Main]
+- [Main]
+- [Main]
