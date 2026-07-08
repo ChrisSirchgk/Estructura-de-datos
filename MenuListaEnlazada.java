@@ -11,9 +11,9 @@ public class MenuListaEnlazada {
         String dato, nuevoDato;
 
         do {
-            System.out.println("\n===============================");
+            System.out.println("\n");
             System.out.println("   MENU LISTA ENLAZADA");
-            System.out.println("===============================");
+            System.out.println("");
             System.out.println("1. Agregar nodo");
             System.out.println("2. Mostrar lista");
             System.out.println("3. Buscar nodo");
@@ -34,7 +34,7 @@ public class MenuListaEnlazada {
                     break;
 
                 case 2:
-                    System.out.println("\n===== LISTA =====");
+                    System.out.println("\n      LISTA      ");
                     lista.recorrido();
                     break;
 
