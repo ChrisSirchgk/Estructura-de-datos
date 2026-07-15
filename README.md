@@ -23,3 +23,4 @@
 - [Lista Enlazada Basica](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/ListaEnlazadaBasica.java)
 - [Principal Lista Enlazada](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/PrincipalListaEnlazada.java)
 - [Menu Lista Enlazada](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/MenuListaEnlazada.java)
+#### Lista Doblemente Enlazada
