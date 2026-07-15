@@ -24,3 +24,7 @@
 - [Principal Lista Enlazada](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/PrincipalListaEnlazada.java)
 - [Menu Lista Enlazada](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/MenuListaEnlazada.java)
 #### Lista Doblemente Enlazada
+- [Nodo 2](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/NodoDoble.java)
+- [Lista Doblemente Enlazada](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/ListaDoblementeEnlazada.java)
+- [Principal Lista Doblemente Enlazada](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/PrincipalListaDoblemente.java)
+
