@@ -19,19 +19,19 @@
 ---
 ### Segundo Parcial
 - [Cuadro Comparativo](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/IMG_9372.jpeg)
+
+     #### Lista Enlazada
 - [Nodo](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/Nodo.java)
-  
-  #### Lista Enlazada
 - [Lista Enlazada Basica](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/ListaEnlazadaBasica.java)
 - [Principal Lista Enlazada](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/PrincipalListaEnlazada.java)
 - [Menu Lista Enlazada](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/MenuListaEnlazada.java)
   
-  #### Lista Doblemente Enlazada
+     #### Lista Doblemente Enlazada
 - [Nodo 2](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/NodoDoble.java)
 - [Lista Doblemente Enlazada](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/ListaDoblementeEnlazada.java)
 - [Principal Lista Doblemente Enlazada](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/PrincipalListaDoblemente.java)
 
-  #### Metodo Recursivo
+     #### Metodo Recursivo
 - [Metodo Recursivo](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/MetodoRecursivo.java)
 - [Main Recursivo](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/MainRecursivo.java)
 - [Fibonacci Recursivo](https://github.com/ChrisSirchgk/Estructura-de-datos/blob/main/FibonacciRecursivo.java)
